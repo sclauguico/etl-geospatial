@@ -3,8 +3,10 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 import sqlite3
+import geocoder
 
-def extract(url, table_attributes):
+# Function for extracting the provinces and their population from the web
+def extract_from_web(url, table_attributes):
     page = requests.get(url).text
     data = BeautifulSoup(page,'html.parser')
     df = pd.DataFrame(columns=table_attributes)
@@ -20,8 +22,7 @@ def extract(url, table_attributes):
                 df = df.append({"Province": province, "Population": population}, ignore_index=True)
     return df
 
-url = 'https://en.wikipedia.org/wiki/List_of_Philippine_provinces_by_population'
-attribute_list = ["Province"]    
-extracted_data = extract(url, attribute_list) 
-print("Data extraction complete. Initiating Transformation process") 
-print(extracted_data) 
+# Function for extracting the coordinates of the provinces from an API
+def extract_lat_lng(location):
+    g = geocoder.arcgis('{}, Philippines'.format(location))
+    return g.latlng
