@@ -26,3 +26,19 @@ def extract_from_web(url, table_attributes):
 def extract_lat_lng(location):
     g = geocoder.arcgis('{}, Philippines'.format(location))
     return g.latlng
+
+
+# Function for extracting the geojson - geometry coordinates for each province
+def extract_geo_json(geo_url, filename):
+    try:
+        response = requests.get(geo_url)
+        if response.status_code == 200:
+            with open(filename, 'wb') as file:
+                file.write(response.content)
+            print(f'GeoJSON file "{filename}" downloaded!')
+        else:
+            print(f'Failed to download GeoJSON. Status code: {response.status_code}')
+    except Exception as e:
+        print(f'An error occurred: {e}')
+
+
