@@ -8,4 +8,4 @@ def log_progress(message):
     now = datetime.now() # get current timestamp 
     timestamp = now.strftime(timestamp_format) 
     with open(log_file,"a") as f: 
-        f.write(timestamp + ',' + message + '\n') 
+        f.write(timestamp + ', ' + message + '\n') 

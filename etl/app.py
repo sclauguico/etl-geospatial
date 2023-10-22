@@ -1,5 +1,6 @@
+### Import libraries and packages
 import pandas as pd
-from extract_data import extract_from_web, extract_lat_lng, extract_geo_json, extract_venues_data
+from extract_data import extract_provinces, extract_lat_lng, extract_geojson, extract_venues, extract_tourism
 from log import log_progress
 
 
@@ -8,7 +9,7 @@ wiki_url = 'https://en.wikipedia.org/wiki/List_of_Philippine_provinces_by_popula
 attribute_list = ["Province", "Population"]    
 
 # Scrape province and population data
-extracted_wiki_data = extract_from_web(wiki_url, attribute_list) 
+extracted_wiki_data = extract_provinces(wiki_url, attribute_list) 
 
 # Log the progress and print extracted Wiki data
 log_progress("Web scraping complete.") 
@@ -36,7 +37,7 @@ geo_url = "https://raw.githubusercontent.com/macoymejia/geojsonph/master/Provinc
 filename = "geo_provinces.json"
 
 # Extract the GeoJSON data
-extracted_geojson_data = extract_geo_json(geo_url, filename)
+extracted_geojson_data = extract_geojson(geo_url, filename)
 
 # Log the progress and print extracted GeoJson data
 log_progress("GeoJSON extraction complete") 
@@ -48,8 +49,16 @@ province_names = extracted_wiki_data['Province']
 coordinates = [(lat, lng) for lat, lng in zip(extracted_coordinate_data['Latitude'], extracted_coordinate_data['Longitude'])]
 
 # Extract the venues data
-extracted_venues_data, extracted_venue_categories_data = extract_venues_data(coordinates, province_names)
+extracted_venues_data, extracted_venue_categories_data = extract_venues(coordinates, province_names)
 
 # Log the progress and print extracted coordinate data
-log_progress("Places and venue data extraction complete. Initiating Transformation process...") 
+log_progress("Places and venue data extraction complete.") 
 print(extracted_venues_data, extracted_venue_categories_data)
+
+
+### Extract the tourism data
+extracted_tourism_data = extract_tourism()
+
+# Log the tourism data
+log_progress("Tourismm data extraction complete. Initiating Transformation process...") 
+print(extracted_tourism_data)
