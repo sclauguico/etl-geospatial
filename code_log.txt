@@ -1,5 +1,0 @@
-2023-Oct-22-17:55:56, Web scraping complete.
-2023-Oct-22-17:57:20, Coordinates extraction complete.
-2023-Oct-22-17:57:22, GeoJSON extraction complete
-2023-Oct-22-17:57:35, Places and venue data extraction complete.
-2023-Oct-22-17:57:35, Tourismm data extraction complete. Initiating Transformation process...

@@ -1,0 +1,10 @@
+2023-Oct-22-18:47:00, Web scraping complete.
+2023-Oct-22-18:48:23, Coordinates extraction complete.
+2023-Oct-22-18:48:23, GeoJSON extraction complete
+2023-Oct-22-18:48:36, Places and venue data extraction complete.
+2023-Oct-22-18:48:36, Tourism data extraction complete. Initiating Transformation process...
+2023-Oct-22-19:00:05, Web scraping complete.
+2023-Oct-22-19:01:29, Coordinates extraction complete.
+2023-Oct-22-19:01:29, GeoJSON extraction complete
+2023-Oct-22-19:01:42, Places and venue data extraction complete.
+2023-Oct-22-19:01:42, Tourism data extraction complete. Initiating Transformation process...
