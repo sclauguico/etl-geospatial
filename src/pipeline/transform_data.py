@@ -15,7 +15,7 @@ def read_csv_files(data_directory):
     return dataframes
 
 def read_json_file(file_to_process):
-    dataframe = pd.read_json(data_directory + file_to_process, lines=True)
+    dataframe = pd.read_json(data_directory + file_to_process)
     return dataframe
 
 
@@ -30,5 +30,5 @@ print(df_province_coordinates.head())
 print(df_province_venues.head())
 print(df_venue_categories.head())
 
-# df_province_geometry = read_json_file("/province_geometry.json")
-# print(df_province_geometry.head())
+df_province_geometry = read_json_file("/province_geometry.json")
+print(df_province_geometry.head())
