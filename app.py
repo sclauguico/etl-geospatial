@@ -1,5 +1,6 @@
 import pandas as pd
 from src.pipeline.extract_data import extract_provinces, extract_coordinates, extract_geo, extract_venues, extract_tourism
+from src.pipeline.transform_data import read_csv_files, read_json_file
 from src.logger import log_progress
 
 def main():
@@ -51,3 +52,7 @@ def extract_tourism_data():
 
 if __name__ == "__main__":
     main()
+
+
+data_directory = "extracted_data"
+result = read_csv_files(data_directory)
