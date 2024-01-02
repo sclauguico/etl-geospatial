@@ -1,0 +1,8 @@
+requests
+import urlopen
+BeautifulSoup
+pandas==1.4.0
+sqlite3
+geocoder
+os
+mysql.connector
