@@ -4,11 +4,11 @@ Metro Manila,A-Venue,Bar,14.566239,121.029631,
 Metro Manila,BGC Arts Center,Performing Arts Venue,14.54788,121.049943,"26th Street (at 9th Ave), 1600 Taguig"
 Metro Manila,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
 Metro Manila,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
-Metro Manila,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
 Metro Manila,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
 Metro Manila,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
 Metro Manila,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
-Metro Manila,Meralco Theater,Theater,14.590013,121.064047,"Ortigas Ave, Pasig, Pasig"
+Metro Manila,Evb Studio,Music Venue,14.609968,121.037054,
+Metro Manila,Lyric Piano,Music Store,14.61288,121.038888,"80 Horseshoe Drive Corner N. Domingo Street (n. domingo), 1100 Quezon City, Quezon City"
 Cebu,Open Mic,Karaoke Bar,10.305048,123.876834,"6000 Cebu City, Cebu"
 Cebu,D' Voice KTV & Grill,Music Venue,10.31327,123.880007,"R. Duterte Street, 6000 Cebu City, Cebu"
 Cebu,Music One,Karaoke Bar,10.328621,123.906038,"Cebu IT Park, 6000 Cebu City, Cebu"
@@ -30,15 +30,15 @@ Cavite,The Portal MEV,Jazz and Blues Venue,14.433717,120.957727,Lawaan Street
 Cavite,Le Mier,Cocktail Bar,14.430813,120.884488,"Magdiwang Highway, 4105 Noveleta, Cavite"
 Cavite,LPU SinAG,Music Venue,14.386825,120.882076,
 Bulacan,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
-Bulacan,Banda 31 Original of Sta. Maria Bulacan Inc. Rehearsal Hall,Music Venue,14.817487,120.966056,"3022 Santa, Bulacan"
-Bulacan,Rave Music Lounge,Music Venue,14.657304,120.981569,
-Bulacan,Energy FM 106.7,Music Venue,14.705941,121.039257,
-Bulacan,Musik manila,Music Venue,14.643491,120.993336,Manila
-Bulacan,Soundbox Studio,Music Venue,14.612488,120.969493,"Juan Luna Street, Maynila, City of Manila"
-Bulacan,Quantum KTV Rooms,Karaoke Bar,14.708063,121.037149,"Quirino Hwy, Novaliches, Quezon City, Quezon City"
-Bulacan,Music Zone,Karaoke Bar,14.652704,121.034093,"TriNoma, North Avenue, 1105 Quezon City, Quezon City"
-Bulacan,Philippine Arena,Stadium,14.793746,120.953541,"3018 Bocaue, Bulacan"
-Bulacan,Honda Cars Kalookan,Jazz and Blues Venue,14.656896,120.997434,"24 - Hour Road, Las Piñas"
+Bulacan,Khub,Music Venue,14.754507,120.955589,"SM City Marilao, MacArthur Hwy, 3019 Marilao, Bulacan"
+Bulacan,RG Sisig,Music Venue,14.741886,120.957053,"Meycauayan, Bulacan"
+Bulacan,K-Hub,Music Venue,14.753603,120.976314,"3019 Marilao, Bulacan"
+Bulacan,Ignite Recording Studio,Music Venue,14.874814,120.797111,
+Bulacan,Karaoke Hub,Music Venue,14.686135,120.976351,
+Bulacan,Yamaha School of Music,College and University,14.671532,121.040659,"Barrington Place, Congressional Avenue, 1106 Quezon City"
+Bulacan,Inner Circle Production: Music Station,Music Venue,14.671532,121.040659,"Congressional Avenue, Quezon City, Quezon City"
+Bulacan,Beans & Strums,Coffee Shop,14.735684,121.066505,"Level 2, Lester Building, Km 21, Quirino Highway, 1118 Quezon City, Quezon City"
+Bulacan,Perfect Pitch,Music Store,14.657168,121.029939,"SM City, North Avenue corner, 1105 Quezon City, Quezon City"
 Laguna,Venue,Arts and Entertainment,14.197227,121.162087,"National Highway, 4027 Calamba"
 Laguna,Lyrics and Tidbits,Music Venue,14.265843,121.425841,"4009 Santa, Laguna"
 Laguna,Highscore Ktv,Music Venue,14.087165,121.309089,"4000 San Pablo City, Laguna"
@@ -59,9 +59,9 @@ Batangas,Mgm grand arena,Performing Arts Venue,13.801685,121.102496,
 Batangas,The Event Centre,Music Venue,13.940567,121.129973,
 Batangas,J's Dance Studio,Dance Studio,13.75644,121.057018,"4200 Batangas, Batangas"
 Batangas,Kabeer Restaurant And Music Lounge,Middle Eastern Restaurant,13.753066,121.068332,"Q339+689, M. Pastor Avenue, 4200 Batangas, Batangas"
+Batangas,Patio Alfonso resort And Restaurant,Swimming Pool,13.79207,121.07541,"Batangas-Ibaan National Highway, 4200 Batangas, Batangas"
 Batangas,UB Culture and Arts Building,Theater,13.760437,121.062222,"Hilltop Road, 4200 Batangas"
 Batangas,Sa Puso Mo,Theater,13.762335,121.085464,143 Mapagmahal Street
-Batangas,Event Center,Concert Hall,13.75583,121.069465,"Pastor Village, Pallocan West, 4200 Batangas"
 Pampanga,The Venue,Event Space,15.052556,120.696877,3017 Bulacan
 Pampanga,The Music Studio,Performing Arts Venue,15.045868,120.671262,"Jomafer Building, 2000 San Fernando"
 Pampanga,Wishing Well,Karaoke Bar,15.160247,120.592529,"S Rivera Lim Avenue (Balibago), 2009 Angeles, Pampanga"
@@ -172,8 +172,8 @@ Metro Manila,The Venue,Other Great Outdoors,14.614474,121.120709,
 Metro Manila,BGC Arts Center,Performing Arts Venue,14.54788,121.049943,"26th Street (at 9th Ave), 1600 Taguig"
 Metro Manila,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
 Metro Manila,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
-Metro Manila,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
 Metro Manila,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
 Metro Manila,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
 Metro Manila,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
-Metro Manila,UP College of Music Mini Hall,Music Venue,14.655436,121.061693,"1101 Quezon City, Quezon City"
+Metro Manila,I am A singer,Music Venue,14.644901,121.052022,
+Metro Manila,Abs-Cbn Studio Tours & Shop (ABS-CBN Studio Tours & Shop),Performing Arts Venue,14.639724,121.035872,"Sgt Esguerra Ave (at Mo Ignacia Ave), 1103 Quezon City, Quezon City"
