@@ -26,9 +26,9 @@ for key, dataframe in dataframes.items():
     globals()[f'df_{key}'] = dataframe
 
 print(df_provinces.head())
-print(df_province_coordinates.head())
-print(df_province_venues.head())
-print(df_venue_categories.head())
+print(df_coordinates.head())
+print(df_venues.head())
+print(df_tourists.head())
 
 df_province_geometry = read_json_file("/province_geometry.json")
 print(df_province_geometry.head())

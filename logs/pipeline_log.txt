@@ -8,3 +8,26 @@
 2023-Oct-22-19:01:29, GeoJSON extraction complete
 2023-Oct-22-19:01:42, Places and venue data extraction complete.
 2023-Oct-22-19:01:42, Tourism data extraction complete. Initiating Transformation process...
+2024-Jan-13-17:13:18, Web scraping complete.
+2024-Jan-13-17:13:53, Web scraping complete.
+2024-Jan-13-17:15:54, Coordinates extraction complete.
+2024-Jan-13-17:15:57, GeoJSON extraction complete
+2024-Jan-13-17:19:27, Web scraping complete.
+2024-Jan-13-17:21:25, Coordinates extraction complete.
+2024-Jan-14-19:27:24, Web scraping complete.
+2024-Jan-14-19:29:05, Coordinates extraction complete.
+2024-Jan-14-19:29:56, Places and venue data extraction complete.
+2024-Jan-14-19:31:21, Web scraping complete.
+2024-Jan-14-19:38:27, Web scraping complete.
+2024-Jan-14-19:40:12, Coordinates extraction complete.
+2024-Jan-14-19:40:32, Places and venue data extraction complete.
+2024-Jan-14-19:58:05, Web scraping complete.
+2024-Jan-14-19:59:48, Coordinates extraction complete.
+2024-Jan-14-20:00:13, Places and venue data extraction complete.
+2024-Jan-14-20:00:13, Tourism data extraction complete. Initiating Transformation process...
+2024-Jan-14-20:00:16, GeoJSON extraction complete
+2024-Jan-14-20:01:09, Web scraping complete.
+2024-Jan-14-20:02:52, Coordinates extraction complete.
+2024-Jan-14-20:03:24, Places and venue data extraction complete.
+2024-Jan-14-20:03:24, Tourism data extraction complete. Initiating Transformation process...
+2024-Jan-14-20:03:27, GeoJSON extraction complete
