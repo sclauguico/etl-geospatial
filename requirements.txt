@@ -5,3 +5,4 @@ pandas
 geocoder
 os
 mysql.connector
+sqlalchemy

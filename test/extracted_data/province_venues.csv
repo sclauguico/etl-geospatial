@@ -1,189 +1,101 @@
 Province,Venue Name,Venue Category,Venue Lat,Venue Long,Address
-Metro Manila,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
-Metro Manila,A-Venue,Bar,14.566239,121.029631,
-Metro Manila,BGC Arts Center,Performing Arts Venue,14.54788,121.049943,"26th Street (at 9th Ave), 1600 Taguig"
-Metro Manila,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
-Metro Manila,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
-Metro Manila,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
-Metro Manila,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
-Metro Manila,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
-Metro Manila,Evb Studio,Music Venue,14.609968,121.037054,
-Metro Manila,Lyric Piano,Music Store,14.61288,121.038888,"80 Horseshoe Drive Corner N. Domingo Street (n. domingo), 1100 Quezon City, Quezon City"
-Cebu,Open Mic,Karaoke Bar,10.305048,123.876834,"6000 Cebu City, Cebu"
-Cebu,D' Voice KTV & Grill,Music Venue,10.31327,123.880007,"R. Duterte Street, 6000 Cebu City, Cebu"
-Cebu,Music One,Karaoke Bar,10.328621,123.906038,"Cebu IT Park, 6000 Cebu City, Cebu"
-Cebu,Music Station,Music Venue,10.301859,123.893347,"Chris Unit (224-E Urgello St. Apartment), 6000 Cebu City, Cebu"
-Cebu,"CAP Arts Center, Osmeña Blvd",Performing Arts Venue,10.30664,123.893734,6000 Cebu City
-Cebu,Two Mango,Music Venue,10.310016,123.895643,"Gen. Maxilom Avenue, 6000 Cebu City, Cebu"
-Cebu,Center For Pop,Music School,10.311312,123.901524,"Gen. Maxilom Avenue, 6000 Cebu City"
-Cebu,Jukebox,Music Venue,10.312072,123.901999,"Rahmann Street, 6000 Cebu City, Cebu"
-Cebu,Jam To The Jazz Club,Jazz and Blues Venue,10.301594,123.88126,
-Cebu,Rhythm Central Studio,Music Venue,10.313519,123.903289,
-Cavite,Peers Studio,Music Venue,14.196295,120.876769,4100 Cavite
-Cavite,Imagine,Music Venue,14.30204,120.95384,"4114 Dasmariñas, Cavite"
-Cavite,Trabiesa,Performing Arts Venue,14.112523,120.915486,"4120 Tagaytay, Cavite"
-Cavite,Bistroville Food Park,Music Venue,14.115286,120.962117,"4120 Tagaytay, Cavite"
-Cavite,Marikafe Bar & Resto,Music Venue,14.394025,120.969785,"93 Avenida Rizal St. BPS, 4013 Bacoor, Cavite"
-Cavite,Fraeon's Room,Music Venue,14.428805,120.881142,4105
-Cavite,OLMB Band Hall,Music Venue,14.404983,120.977025,4100 Cavite
-Cavite,The Portal MEV,Jazz and Blues Venue,14.433717,120.957727,Lawaan Street
-Cavite,Le Mier,Cocktail Bar,14.430813,120.884488,"Magdiwang Highway, 4105 Noveleta, Cavite"
-Cavite,LPU SinAG,Music Venue,14.386825,120.882076,
-Bulacan,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
-Bulacan,Khub,Music Venue,14.754507,120.955589,"SM City Marilao, MacArthur Hwy, 3019 Marilao, Bulacan"
-Bulacan,RG Sisig,Music Venue,14.741886,120.957053,"Meycauayan, Bulacan"
-Bulacan,K-Hub,Music Venue,14.753603,120.976314,"3019 Marilao, Bulacan"
-Bulacan,Ignite Recording Studio,Music Venue,14.874814,120.797111,
-Bulacan,Karaoke Hub,Music Venue,14.686135,120.976351,
-Bulacan,Yamaha School of Music,College and University,14.671532,121.040659,"Barrington Place, Congressional Avenue, 1106 Quezon City"
-Bulacan,Inner Circle Production: Music Station,Music Venue,14.671532,121.040659,"Congressional Avenue, Quezon City, Quezon City"
-Bulacan,Beans & Strums,Coffee Shop,14.735684,121.066505,"Level 2, Lester Building, Km 21, Quirino Highway, 1118 Quezon City, Quezon City"
-Bulacan,Perfect Pitch,Music Store,14.657168,121.029939,"SM City, North Avenue corner, 1105 Quezon City, Quezon City"
-Laguna,Venue,Arts and Entertainment,14.197227,121.162087,"National Highway, 4027 Calamba"
-Laguna,Lyrics and Tidbits,Music Venue,14.265843,121.425841,"4009 Santa, Laguna"
-Laguna,Highscore Ktv,Music Venue,14.087165,121.309089,"4000 San Pablo City, Laguna"
-Laguna,National Arts Center,Music Venue,14.163132,121.215743,"Ibarang Road, Los Baños"
-Laguna,Pila Multipurpose Covered Court,Basketball Court,14.236672,121.362754,"Gen. Luna Street, 4010 Pila, Laguna"
-Laguna,Havener Auditorium,Theater,14.168737,121.254826,"Los Baños, Laguna"
-Laguna,Bulwagang Sarimanok,Concert Hall,14.163081,121.217213,"Ibarang Road, 4031 Los Baños, Laguna"
-Laguna,D' Venue Resto,BBQ Joint,14.110479,121.392908,"4003 Rizal, Laguna"
-Laguna,Events Venue Resort,Swimming Pool,14.171379,121.206153,
-Laguna,Venue Bar,Bar,14.197037,121.162258,"4027 Calamba, Laguna"
-Rizal,CLSU Auditorium,Amphitheater,15.737655,120.929456,"Muñoz Nueva Ecija, 3119 Munoz, Nueva Ecija"
-Pangasinan,Virgen Milagrosa University Foundation Centrum Social Hall,Theater,15.918925,120.34025,"DriveMartin P. Posadas Avenue (Dr.Martin P. Posadas Avenue), 2420 San Carlos, Pangasinan"
-Pangasinan,Musicians Corner Music Store and Music School,Rock Club,16.040026,120.334147,
-Batangas,Provincial Auditor,Performing Arts Venue,13.76604,121.063853,4200 Batangas
-Batangas,"SM Event Center, SM Batangas",Performing Arts Venue,13.755799,121.068235,"4200 Batangas, Batangas"
-Batangas,MUSIC area,Music Venue,13.772122,121.047611,Genesis st.
-Batangas,Mgm grand arena,Performing Arts Venue,13.801685,121.102496,
-Batangas,The Event Centre,Music Venue,13.940567,121.129973,
-Batangas,J's Dance Studio,Dance Studio,13.75644,121.057018,"4200 Batangas, Batangas"
-Batangas,Kabeer Restaurant And Music Lounge,Middle Eastern Restaurant,13.753066,121.068332,"Q339+689, M. Pastor Avenue, 4200 Batangas, Batangas"
-Batangas,Patio Alfonso resort And Restaurant,Swimming Pool,13.79207,121.07541,"Batangas-Ibaan National Highway, 4200 Batangas, Batangas"
-Batangas,UB Culture and Arts Building,Theater,13.760437,121.062222,"Hilltop Road, 4200 Batangas"
-Batangas,Sa Puso Mo,Theater,13.762335,121.085464,143 Mapagmahal Street
-Pampanga,The Venue,Event Space,15.052556,120.696877,3017 Bulacan
-Pampanga,The Music Studio,Performing Arts Venue,15.045868,120.671262,"Jomafer Building, 2000 San Fernando"
-Pampanga,Wishing Well,Karaoke Bar,15.160247,120.592529,"S Rivera Lim Avenue (Balibago), 2009 Angeles, Pampanga"
-Pampanga,Center for Pop Music,Performing Arts Venue,15.044622,120.687895,"Gapan-San Fernando-Olongapo Road (Jose Abad Santos Ave., Dolores,), 2000 Lungsod ng San Fernando, Pampanga"
-Pampanga,Tom's Grill,Music Venue,15.052265,120.700065,"2000 Lungsod ng San Fernando, Pampanga"
-Pampanga,Macs,Jazz and Blues Venue,15.125947,120.589868,
-Pampanga,apl.de.ap Music Studio & Library,Concert Hall,15.132992,120.59023,
-Pampanga,Rock and Republic Music Studio,Music Venue,15.134638,120.587326,"2009 Angeles, Pampanga"
-Pampanga,JMT music School,Music Venue,15.14725,120.595804,"146 Don Pepe Street, 2009 Angeles, Pampanga"
-Pampanga,Crescendo,Music Venue,15.163094,120.610145,"Marquee Mall, Aniceto Gueco Street"
-Iloilo,The Venue,Bar,10.70444,122.550733,"5000 Iloilo City, Iloilo"
-Iloilo,Lumpiga Acoustic Bar and Resto,Music Venue,10.701001,122.564929,"12 Gen. Luna Street, 6100 Iloilo City, Iloilo"
-Iloilo,Usacom,Music Venue,10.698791,122.562037,"5000 Iloilo City, Iloilo"
-Iloilo,District 21 KTV,Music Venue,10.706619,122.552727,"Diversion Road, 5000 Iloilo City, Iloilo"
-Iloilo,Street side,Music Venue,10.705605,122.552678,
-Iloilo,Tiesto,Music Venue,10.702554,122.551145,"Boardwalk Avenue, 5000 Iloilo City, Iloilo"
-Iloilo,Room 9 M02 Annex,Music Venue,10.704833,122.551028,
-Iloilo,MO2 Annex,Music Venue,10.705117,122.550705,
-Iloilo,Musikous Jam And Rehearsal Studio,Music Venue,10.731152,122.552823,"Cornercabangbang & lopez jaena Street (cabangbang), 5000 Iloilo City, Iloilo"
-Iloilo,The Mellow Mangrove,Bar,10.700688,122.558323,"5000 Iloilo City, Iloilo"
-Davao del Sur,iSing KTV,Music Venue,6.951334,125.470792,
-Nueva Ecija,Switzerland,Music Venue,15.486508,120.97355,
-Nueva Ecija,Dr. Sound Recording Studio,Music Venue,15.486683,120.967412,"Gen. Tinio St., 3100 Cabanatuan"
-Nueva Ecija,CLSU Auditorium,Amphitheater,15.737655,120.929456,"Muñoz Nueva Ecija, 3119 Munoz, Nueva Ecija"
-Nueva Ecija,Belle's Catering at Sa Lumang Bahay- Garden Venue,Restaurant,15.507833,120.961991,"Maharlika Highway, 3100 Cabanatuan, Nueva Ecija"
-Quezon,The Big Tent Venue,Rest Area,14.685582,121.075426,"Holy Spirit Drv., Quezon City, Quezon City"
-Quezon,The Venue,Other Great Outdoors,14.614474,121.120709,
-Quezon,BGC Arts Center,Performing Arts Venue,14.54788,121.049943,"26th Street (at 9th Ave), 1600 Taguig"
-Quezon,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
-Quezon,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
-Quezon,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
-Quezon,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
-Quezon,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
-Quezon,I am A singer,Music Venue,14.644901,121.052022,
-Quezon,Abs-Cbn Studio Tours & Shop (ABS-CBN Studio Tours & Shop),Performing Arts Venue,14.639724,121.035872,"Sgt Esguerra Ave (at Mo Ignacia Ave), 1103 Quezon City, Quezon City"
-Camarines Sur,Alfonso's Store,Grocery Store,13.622742,123.191177,"58 Bonifacio Street, 4400 Naga"
-Camarines Sur,Wharf Galley,Music Venue,13.626781,123.187026,"Elias Angeles Street, 4400 Naga"
-Camarines Sur,UNC Social Hall,Theater,13.625076,123.369526,
-Camarines Sur,"The Tent, Avenue Plaza Hotel",Concert Hall,13.632632,123.197244,"Magsaysay Avenue, 4400 Naga"
-Camarines Sur,Ateneo's Covered Court,Concert Hall,13.632216,123.184941,
-Camarines Sur,Jesse M. Robredo Coliseum,Basketball Court,13.620311,123.188548,4400 Naga
-Camarines Sur,Wharfgalley Rockcafe,Rock Club,13.632338,123.196185,"Magsaysay Avenue, 4400 Naga, Naga, Camarines Sur"
-Camarines Sur,Wharf Galley,Rock Club,13.632323,123.196119,"Magsaysay Avenue, 4400 Naga"
-Zamboanga del Sur,Thor,Music Venue,7.824829,123.437436,"7016 Pagadian, Zamboanga del Sur"
-Zamboanga del Sur,SCC,Theater,7.827224,123.439206,
-Misamis Oriental,More Bites Pizza,Pizzeria,8.506642,124.756835,"6272 Reyes Village, Bugo (beside Sacred Heart of Jesus Parish), 9000 Lungsod ng Cagayan de Oro, Misamis Oriental"
-Maguindanao,"Fuel Point Videoke, Awang, DOS, Maguindanao",Concert Hall,7.158194,124.222953,Danao
-Bukidnon,Mindy's Fastfood and Jazz Bar,Restaurant,8.155395,125.127245,"Sayre Highway, 8700 Malaybalay, Bukidnon"
-Bukidnon,Kaamulan Folk Arts Theatre,Theater,8.156729,125.124442,"8700 Malaybalay, Bukidnon"
-Bukidnon,Music Room,Concert Hall,8.157151,125.124283,"Fortich STREET, 8700 Malaybalay, Bukidnon"
-Bukidnon,The Garden Party Venue,Wedding Hall,8.130041,125.12809,"8700 Malaybalay, Bukidnon"
-Bukidnon,Bukidnon Breeze Seafoods Restaurant & Events Venue,Seafood Restaurant,8.16098,125.122879,8700 Malaybalay
-Tarlac,Yamaha School Of Music,Motorcycle Dealership,15.48271,120.59573,"McArthur Highway, Tarlac City, Tarlac"
-Tarlac,SoundKraft Snackbar and Music Studio,Music Venue,15.493934,120.594698,"819 F. Tanedo Street (Blk 1 San Nicolas), 2300 Tarlac City, Tarlac"
-Tarlac,Live Bistro II Events Venue & Resto Bar,Bistro,15.490084,120.584233,
-Cotabato,4M,Music Venue,7.219965,124.251221,"Notre Dame Avenue, 9600 Cotabato City"
-Cotabato,Simuay Function Hall,Performing Arts Venue,7.273898,124.312454,"Sultan Kudarat, Maguindanao"
-Cotabato,Shariff Kabunsuan Cultural Complex,Theater,7.196371,124.246248,9600 Cotabato City
-Cotabato,"Fuel Point Videoke, Awang, DOS, Maguindanao",Concert Hall,7.158194,124.222953,Danao
-Bohol,Batuan Gymnasium,Performing Arts Venue,9.765093,124.142409,Batuan
-Albay,Ok Fm 97.1,Music Venue,13.141371,123.751699,"Rizal Street, Legazpi, Legaspi City"
-Albay,Albay Astrodome,Stadium,13.139868,123.734972,"Capt F. Aquende Drive, Legazpi, Legaspi City"
-Albay,Albay Theatre,Event Space,13.154112,123.752025,"Legazpi, Legaspi City"
-Albay,Concourse,Concert Hall,13.14928,123.754548,
-Albay,D'Venue,Bar,13.322809,123.505201,"30, San Juan Street, 4506 Polangui"
-Lanao del Sur,Star Venue,Café,8.007252,124.284769,Beside MSU Gymnasium
-Sultan Kudarat,Simuay Function Hall,Performing Arts Venue,7.273898,124.312454,"Sultan Kudarat, Maguindanao"
-Sultan Kudarat,4M,Music Venue,7.219965,124.251221,"Notre Dame Avenue, 9600 Cotabato City"
-Sultan Kudarat,Shariff Kabunsuan Cultural Complex,Theater,7.196371,124.246248,9600 Cotabato City
-Sultan Kudarat,"Fuel Point Videoke, Awang, DOS, Maguindanao",Concert Hall,7.158194,124.222953,Danao
-Bataan,Sari Gamit Covered Court,Performing Arts Venue,14.677142,120.530483,
-Bataan,Blue Room Recording Studio,Music Venue,14.663056,120.543439,"12, Naval Extension (Fourth Street, Cupang Proper), 2100 Balanga, Bataan"
-Bataan,Pamana Ville,Concert Hall,14.669947,120.543458,2100 Balanga
-Benguet,"Center For Culture And The Arts, Saint Louis University",Performing Arts Venue,16.417812,120.597541,
-Benguet,St. Louis University CCA,Performing Arts Venue,16.417524,120.597222,2600 Baguio
-Benguet,Dampa sa Baguio,Music Venue,16.405484,120.593505,"Baguio City Leagarda Road, 2600 Baguio"
-Benguet,Kafeeklatsch,Music Venue,16.394061,120.604926,
-Benguet,Baguio Convention Center,Convention Center,16.404531,120.599754,"Governor Pack Road, 2600 Baguio"
-Benguet,Gimbal's,Music Venue,16.411753,120.590398,"CNR Legarda Road & Cariño Street, 2600 Baguio"
-Benguet,CCA Theater,Theater,16.417733,120.597541,
-Benguet,Camp John Hay Amphitheatre,Amphitheater,16.3991,120.617599,"2600 Lungsod ng Baguio, Baguio City"
-Benguet,Bell Ampitheater,Amphitheater,16.399017,120.617873,"2600 Lungsod ng Baguio, Baguio City"
-La Union,J1,Music Venue,16.615558,120.316779,"2500 San Fernando, La Union"
-La Union,Nano's,Concert Hall,16.659834,120.321869,"2514 San Juan, La Union"
-Samar,Tia Anita's New Venue,Event Space,11.777544,124.883415,"2/F, Mabini Avenue, 6700 Catbalogan, Samar"
-Agusan del Norte,Martin D. Media Production,Music Venue,8.944421,125.540221,"Montilla Boulevard, 8600 Lungsod ng Butuan"
-Agusan del Norte,Dona Ynez Events Venue,Event Space,8.943817,125.505033,8600 Lungsod ng Butuan
-Agusan del Norte,Loreta Venue & Resto,Filipino Restaurant,9.12829,125.544716,"Km. 1 Pan-Philippine Highway, 8605 Cabadbaran, Agusan del Norte"
-Agusan del Norte,Loreta Venue and Restaurant,Filipino Restaurant,9.128364,125.54475,"Km1 Pan-Philippine Highway, 8605 Cabadbaran, Agusan del Sur"
-Ilocos Sur,Hot Venue,Arts and Entertainment,17.178347,120.442729,"3100 Paras - Paypayad Road, 2710 Candon"
-Surigao del Sur,Rockerz Lounge,Concert Hall,8.799264,126.300459,8306 Surigao City
-Aklan,Terranova,Concert Hall,11.712001,122.384909,
-Ilocos Norte,Music Town,Music Venue,18.180046,120.590826,
-Sarangani,Music City Family KTV,Music Venue,6.119219,125.183016,"Suncity Suites Complex, General Santos, General Santos City"
-Sarangani,Austroplus,Jazz and Blues Venue,6.11645,125.18096,"at San Miguel Street & Santiago Blvd., 9500 General Santos, General Santos City"
-Sarangani,The Event Center,Convention Center,6.116292,125.181223,"at San Miguel St., 9500 General Santos, General Santos City"
-Occidental Mindoro,Sablayan Convention Center,Performing Arts Venue,12.861501,120.788823,5104 Sablayan
-Nueva Vizcaya,AudioEmpire Studio,Music Venue,16.384632,121.103536,"100 P. Zamora, 3702 Bambang, Nueva Vizcaya"
-Eastern Samar,Luis Capito Cultural Stage,Theater,11.60787,125.4326,"6800 Borongan, Silangang Samar"
-Aurora,Thor,Music Venue,7.824829,123.437436,"7016 Pagadian, Zamboanga del Sur"
-Aurora,SCC,Theater,7.827224,123.439206,
-Ifugao,Friends Country Music Bar,Concert Hall,16.917231,121.057959,3601 Banaue
-Quirino,Icon Concert Hall,Concert Hall,16.948132,121.755884,"3305 Cauayan, Isabela"
-Guimaras,The Venue,Bar,10.70444,122.550733,"5000 Iloilo City, Iloilo"
-Guimaras,Lumpiga Acoustic Bar and Resto,Music Venue,10.701001,122.564929,"12 Gen. Luna Street, 6100 Iloilo City, Iloilo"
-Guimaras,Usacom,Music Venue,10.698791,122.562037,"5000 Iloilo City, Iloilo"
-Guimaras,Tiesto,Music Venue,10.702554,122.551145,"Boardwalk Avenue, 5000 Iloilo City, Iloilo"
-Guimaras,Room 9 M02 Annex,Music Venue,10.704833,122.551028,
-Guimaras,MO2 Annex,Music Venue,10.705117,122.550705,
-Guimaras,Street side,Music Venue,10.705605,122.552678,
-Guimaras,District 21 KTV,Music Venue,10.706619,122.552727,"Diversion Road, 5000 Iloilo City, Iloilo"
-Guimaras,Musikous Jam And Rehearsal Studio,Music Venue,10.731152,122.552823,"Cornercabangbang & lopez jaena Street (cabangbang), 5000 Iloilo City, Iloilo"
-Guimaras,The Mellow Mangrove,Bar,10.700688,122.558323,"5000 Iloilo City, Iloilo"
-Mountain Province,Friends Country Music Bar,Concert Hall,16.917231,121.057959,3601 Banaue
-Camiguin,Langob KTV Bar,Karaoke Bar,9.250046,124.715879,"Rizal Street, 9100 Mambajao, Camiguin"
-Philippines,Peers Studio,Music Venue,14.196295,120.876769,4100 Cavite
-Philippines,Trabiesa,Performing Arts Venue,14.112523,120.915486,"4120 Tagaytay, Cavite"
-Philippines,Bistroville Food Park,Music Venue,14.115286,120.962117,"4120 Tagaytay, Cavite"
-Philippines,Imagine,Music Venue,14.30204,120.95384,"4114 Dasmariñas, Cavite"
-Philippines,Luxe Down Under,Concert Hall,14.10205,120.951985,"4120 Tagaytay, Cavite"
-Philippines,Sigtuna Hall,Concert Hall,14.096842,120.938537,"4120 Tagaytay, Cavite"
-Philippines,AUP Amphitheatre,Theater,14.215625,121.032162,"4118 Silang, Cavite"
-Philippines,Aurora Ballroom,Concert Hall,14.1241,120.9907,4120 Tagaytay
-Philippines,Olivarez College Amphitheatre,Amphitheater,14.118809,120.964013,4120 Tagaytay
-Philippines,Rocina's Events Venue,Event Space,14.19161,120.992452,4118 Silang
+San Juan,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
+San Juan,A-Venue,Bar,14.566239,121.029631,
+San Juan,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+San Juan,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+San Juan,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+San Juan,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+San Juan,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+San Juan,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+San Juan,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+San Juan,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+San Juan,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
+San Juan,A-Venue,Bar,14.566239,121.029631,
+San Juan,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+San Juan,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+San Juan,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+San Juan,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+San Juan,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+San Juan,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+San Juan,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+San Juan,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,Queen's Chamber,Music Venue,14.635576,121.022794,"Quezon Avenue, 1104 Quezon City, Quezon City"
+Quezon City,CFC Music Recording and Publishing,Music Venue,14.63735,121.032427,"Unit 1103, Future Point Condominium 1 112 Panay Avenue (#112 Panay Avenue), Quezon City, Quezon City"
+Quezon City,The Venue,Other Great Outdoors,14.614474,121.120709,
+Quezon City,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
+Quezon City,A-Venue,Bar,14.566239,121.029631,
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,The Venue,Other Great Outdoors,14.614474,121.120709,
+Quezon City,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
+Quezon City,A-Venue,Bar,14.566239,121.029631,
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,The Big Tent Venue,Rest Area,14.685582,121.075426,"Holy Spirit Drv., Quezon City, Quezon City"
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,Queen's Chamber,Music Venue,14.635576,121.022794,"Quezon Avenue, 1104 Quezon City, Quezon City"
+Quezon City,The Big Tent Venue,Rest Area,14.685582,121.075426,"Holy Spirit Drv., Quezon City, Quezon City"
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,CFC Music Recording and Publishing,Music Venue,14.63735,121.032427,"Unit 1103, Future Point Condominium 1 112 Panay Avenue (#112 Panay Avenue), Quezon City, Quezon City"
+Mandaluyong City,A-Venue,Shopping Plaza,14.566348,121.029846,Makati
+Mandaluyong City,A-Venue,Bar,14.566239,121.029631,
+Mandaluyong City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Mandaluyong City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Mandaluyong City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Mandaluyong City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Mandaluyong City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Mandaluyong City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Mandaluyong City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Mandaluyong City,Air Force One Digital KTV,Karaoke Bar,14.492175,120.99183,"Ninoy Aquino Avenue, Paranaque"
+Quezon City,The Big Tent Venue,Rest Area,14.685582,121.075426,"Holy Spirit Drv., Quezon City, Quezon City"
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"
+Quezon City,Queen's Chamber,Music Venue,14.635576,121.022794,"Quezon Avenue, 1104 Quezon City, Quezon City"
+Quezon City,The Venue,Other Great Outdoors,14.614474,121.120709,
+Quezon City,The Big Tent Venue,Rest Area,14.685582,121.075426,"Holy Spirit Drv., Quezon City, Quezon City"
+Quezon City,Cowboy Grill,Music Venue,14.57832,120.980635,"A. Mabini Corner Arquiza Street (Arquiza st), 1000 Maynila, City of Manila"
+Quezon City,70's Bistro,Rock Club,14.63065,121.061519,"46 Anonas Street, 1102 Quezon City, Quezon City"
+Quezon City,Peta Theater Center,Music Venue,14.624319,121.026294,"Street Peter Julian Eymard Drive, 1112 Quezon City, Quezon City"
+Quezon City,Love One Another Sound Production,Music Venue,14.58319,121.077573,"2/F, FRDC Building (106 E. Rodriguez Avenue (C5/Libis)), Pasig, Pasig"
+Quezon City,Monkey Mic Family KTV,Music Venue,14.672819,121.062205,3Lot 8 Congressional Avenue
+Quezon City,Philippine International Convention Center,Convention Center,14.554414,120.98319,"CCP Complex, Roxas Boulevard, 1307 Pasay, Pasay City"
+Quezon City,Sky Dome,Amphitheater,14.65575,121.031423,"Sky Garden, SM City North EDSA Complex (btwn Epifanio delos Santos Ave. & North Ave.), 1105 Quezon City, Quezon City"
+Quezon City,The PICC Forum,Business and Professional Services,14.555209,120.984351,"Roxas Boulevard, Pasay, Pasay City"

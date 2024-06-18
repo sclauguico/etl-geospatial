@@ -56,31 +56,33 @@ def extract_venues(coordinates, province_names, file_path_name):
         url = "https://api.foursquare.com/v3/places/search"
         params = {
             "query": "venue",
-            "ll": f"{lat},{lng}",
-            "radius": '22000',
-            # "sort": "DISTANCE",
+            "ll": f"{lat},{lng}"
         }
         headers = {
             "Accept": "application/json",
             "Authorization": os.environ.get("API_KEY"),
         }
         
-        response = requests.get(url, params=params, headers=headers)
+        try:
+            response = requests.get(url, params=params, headers=headers)
+            response.raise_for_status()  # Raise an HTTPError for bad responses (4xx or 5xx)
+        except requests.RequestException as e:
+            print(f"Error in Foursquare API request: {e}")
+            continue  # Skip to the next iteration
 
-        if response.status_code == 200:
-            data = response.json()
+        data = response.json()
             
-            # Extract venue information
-            for venue in data.get('results', []):
-                venue_info = {
-                    'Province': province_name,
-                    'Venue Name': venue['name'],
-                    'Venue Category': venue.get('categories', [])[0].get('name'),
-                    'Venue Lat': venue['geocodes']['main']['latitude'],
-                    'Venue Long': venue['geocodes']['main']['longitude'],
-                    'Address': venue['location']['formatted_address']
-                }
-                venue_data.append(venue_info)
+        # Extract venue information
+        for venue in data.get('results', []):
+            venue_info = {
+                'Province': province_name,
+                'Venue Name': venue['name'],
+                'Venue Category': venue.get('categories', [])[0].get('name'),
+                'Venue Lat': venue['geocodes']['main']['latitude'],
+                'Venue Long': venue['geocodes']['main']['longitude'],
+                'Address': venue['location']['formatted_address']
+            }
+            venue_data.append(venue_info)
 
     # Create DataFrame
     df_venues = pd.DataFrame(venue_data)
