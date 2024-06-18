@@ -24,8 +24,8 @@ def transform_coordinates(df_prov_pop, read_file_path_name, write_file_path_name
     df_prov_coordinates = pd.DataFrame(columns=["province", "latitude", "longitude"])
     
     df_prov_coordinates["province"] = df_prov_pop.province
-    df_prov_coordinates["latitude"] = df_coordinates.latitude
-    df_prov_coordinates["longitude"] = df_coordinates.longitude
+    df_prov_coordinates["latitude"] = df_coordinates.Latitude
+    df_prov_coordinates["longitude"] = df_coordinates.Longitude
     
     df_coordinates.to_csv(write_file_path_name, index=False)
     

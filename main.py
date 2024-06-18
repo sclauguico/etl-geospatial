@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from sqlalchemy import create_engine
 from src.pipeline.extract_data import extract_provinces, extract_coordinates, extract_geo, extract_venues, extract_tourists
 from src.pipeline.transform_data import transform_provinces, transform_coordinates, transform_venues, transform_tourists
 from src.logger import log_progress
@@ -33,6 +34,10 @@ def main():
     # Transform data
     transform_data()
     log_progress("Data transformation complete.")
+    
+    # Load data into the database
+    load_data()
+    log_progress("Data loading complete.")
 
 def extract_province_population():
     wiki_url = "https://en.wikipedia.org/wiki/List_of_Philippine_provinces_by_population"
@@ -74,6 +79,26 @@ def transform_data():
     transformed_tourist_data = transform_tourists("extracted_data/province_tourists.csv", "transformed_data/province_tourists.csv")
     log_progress("Tourist data transformation complete.")
     print(transformed_tourist_data)
+
+def load_data():
+    host = "localhost"
+    user = "root"
+    password = "123"
+    database = "philippines"
+
+    engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{database}")
+
+    def load_table(read_file_path_name, table_name):
+        df = pd.read_csv(read_file_path_name)
+        df.to_sql(table_name, con=engine, index=False, if_exists="replace")
+    
+    # Load all transformed data into the database
+    load_table("transformed_data/province_population.csv", "province_population")
+    load_table("transformed_data/province_coordinates.csv", "province_coordinates")
+    load_table("transformed_data/province_venues.csv", "province_venues")
+    load_table("transformed_data/province_tourists.csv", "province_tourists")
+    
+    engine.dispose()
 
 if __name__ == "__main__":
     if not os.path.exists("extracted_data"):

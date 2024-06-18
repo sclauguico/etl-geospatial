@@ -65,3 +65,31 @@
 2024-Jan-15-12:38:49, Places and venue data extraction complete.
 2024-Jan-15-12:38:49, Tourism data extraction complete. Initiating Transformation process...
 2024-Jan-15-12:38:50, GeoJSON extraction complete
+2024-Jun-18-18:22:57, Web scraping complete.
+2024-Jun-18-18:24:35, Coordinates extraction complete.
+2024-Jun-18-18:25:05, Places and venue data extraction complete.
+2024-Jun-18-18:25:05, Tourism data extraction complete. Initiating Transformation process...
+2024-Jun-18-18:25:07, GeoJSON extraction complete
+2024-Jun-18-18:25:07, Province population data transformation complete.
+2024-Jun-18-18:27:09, Web scraping complete.
+2024-Jun-18-18:28:44, Coordinates extraction complete.
+2024-Jun-18-18:29:25, Places and venue data extraction complete.
+2024-Jun-18-18:29:25, Tourism data extraction complete. Initiating Transformation process...
+2024-Jun-18-18:29:25, GeoJSON extraction complete
+2024-Jun-18-18:29:25, Province population data transformation complete.
+2024-Jun-18-18:29:25, Coordinates data transformation complete.
+2024-Jun-18-18:29:25, Venues data transformation complete.
+2024-Jun-18-18:29:25, Tourist data transformation complete.
+2024-Jun-18-18:29:25, Data transformation complete.
+2024-Jun-18-18:29:26, Data loading complete.
+2024-Jun-18-18:30:52, Web scraping complete.
+2024-Jun-18-18:32:29, Coordinates extraction complete.
+2024-Jun-18-18:32:59, Places and venue data extraction complete.
+2024-Jun-18-18:32:59, Tourism data extraction complete. Initiating Transformation process...
+2024-Jun-18-18:33:01, GeoJSON extraction complete
+2024-Jun-18-18:33:01, Province population data transformation complete.
+2024-Jun-18-18:33:01, Coordinates data transformation complete.
+2024-Jun-18-18:33:01, Venues data transformation complete.
+2024-Jun-18-18:33:02, Tourist data transformation complete.
+2024-Jun-18-18:33:02, Data transformation complete.
+2024-Jun-18-18:33:02, Data loading complete.

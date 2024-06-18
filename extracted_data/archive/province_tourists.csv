@@ -1,0 +1,668 @@
+Location,No. of Foreign Tourists
+Metro Manila,"286,858"
+Caloocan City,-
+Las Piñas City,-
+Makati City,-
+Malabon City,-
+Mandaluyong City,-
+Manila,-
+Marikina City,-
+Muntinlupa City,-
+Navotas City,-
+Parañaque City,-
+Pasay City,-
+Pasig City,-
+Quezon City,-
+San Juan City,-
+Taguig City,-
+Valenzuela City,-
+Pateros,-
+CAR (Cordillera Administrative Region) ,"89,351"
+Abra,-
+Apayao,7
+Benguet,"1,500"
+Ifugao,"35,664"
+Kalinga,"8,378"
+Mountain Province,"8,568"
+Barlig,73
+Bauko,225
+Sagada,"7,348"
+Sadanga,-
+Tadian,18
+Bontoc,904
+Baguio City,"35,234"
+Region I (ILOCOS REGION),"82,517"
+Ilocos Norte,"51,879"
+Bangui,-
+Batac,-
+Burgos,-
+Currimao,75
+Laoag City,"4,805"
+Pagudpud,"45,659"
+Paoay,14
+Pasuquin,-
+San Nicolas,"1,326"
+Sarat,-
+Ilocos Sur,"3,939"
+Bantay,900
+Candon City,234
+Sinait,-
+Vigan City,"2,805"
+La Union,"18,698"
+Agoo,2
+Aringay,-
+Bacnotan,-
+Baloaon,-
+Bangar,-
+Bauang,"4,891"
+Burgos,-
+Caba,75
+Luna,-
+Naguilian,-
+Pugo,-
+Rosario,22
+San Fernando City,"8,629"
+San Juan,"4,958"
+Santol,-
+Sto. Tomas,49
+Sudipen,52
+Tubao,20
+Pangasinan,"8,001"
+Alaminos,"3,791"
+Anda,125
+Balungao,8
+Bolinao,"1,106"
+Bugallion,139
+Dagupan City,393
+Dasol,-
+Labrador,498
+Lingayen,661
+San Fabian,-
+Urdaneta City,"1,185"
+Villasis,95
+Region II (CAGAYAN VALLEY) ,"270,431"
+Batanes,"1,867"
+Cagayan,"259,915"
+Tuguegarao City,"2,451"
+Others,"257,464"
+Isabela,"4,814"
+Cauayan City,"2,009"
+Ilagan City,375
+Santiago City,"1,596"
+Others,834
+Nueva Vizcaya,"3,304"
+Quirino,531
+Region III (CENTRAL LUZON),"339,910"
+Aurora,64
+Bataan,"6,954"
+Bulacan,682
+Nueva Ecija,"13,209"
+Pampanga,"178,397"
+Clark,"170,867"
+San Fernando City,"7,530"
+Others,-
+Tarlac City,"4,690"
+Zambales,"35,708"
+Subic,"42,250"
+Angeles City,"57,956"
+Olongapo City,-
+Region IV-A CALABARZON,"564,121"
+Batangas,"472,546"
+Alitagtag,-
+Balayan,298
+Batangas City,"8,746"
+Balete,-
+Bauan,55
+Calatagan,308
+Cuenca,-
+Ibaan,-
+Laurel,-
+Lemery,-
+Lian,-
+Lipa City,"7,244"
+Lobo,-
+Mabini,-
+Malvar,"9,061"
+Mataas na Kahoy,-
+Nasugbu,"26,238"
+Rosario,-
+San Juan,814
+Santo Tomas,"22,851"
+Taal,-
+Talisay,"396,931"
+Tanauan,-
+Tingloy,-
+Cavite,"59,998"
+Amadeo,-
+Cavite City,-
+Gen. Trias,"14,605"
+Tagaytay City,"21,342"
+Trece Martirez,"24,051"
+Laguna,"18,472"
+Calamba City,"1,178"
+Calauan,396
+Cavinti,-
+Los Bañ0s,62
+Lumban,"1,954"
+Majayjay,-
+Nagcarlan,95
+Rizal,"13,100"
+San Pablo,-
+Sta. Rosa City,"1,687"
+Victoria,-
+Quezon,"10,139"
+Agdangan,-
+Alamat,18
+Atimonan,-
+Buenavista,3
+Burdeos,-
+Calauag,5
+Catanauan,337
+Candelaria,368
+Dolores,-
+Gen Luna,-
+Gen. Nakar,-
+Guinayangan,-
+Gumaca,161
+Infanta,-
+Jomalig,-
+Lopez,490
+Lucban,-
+Lucena City,-
+Macelolon,-
+Mauban,"1,840"
+Padre Burgos,88
+Pagbilao,207
+Panukulan,-
+Patnanungan,-
+Plaridel,-
+Perez,24
+Polillo,188
+Quezon,23
+Real,-
+Sampaloc,232
+San Andres,-
+San Antonio,-
+San Francisco,-
+Sariaya,"5,674"
+Tagkawayan,70
+Tayabas,-
+Tiaong,411
+Unisan,-
+Rizal ,2966 
+Antipolo City,666
+Angono,-
+Baras,-
+Binangonan,-
+Cainta,-
+Cordona,-
+Jalajala,-
+Morong,-
+Pililia,-
+Rodriguez,-
+San Mateo,-
+Tanay,"2,300"
+Taytay,-
+Teresa,-
+Region IV-B MIMAROPA ,"753,629"
+Marinduque,269
+Boac,72
+Buenavista,-
+Gasan,137
+Mogpog,-
+Sta. Cruz,60
+Torrijos,-
+Occidental Mindoro,"6,061"
+Abra de Ilog,-
+Calintaan,516
+Looc,30
+Lubang,335
+Magsaysay,34
+Mamburao,114
+Paluan,-
+Rizal,-
+Sablayan,"3,196"
+San Jose,"1,730"
+Santa Cruz,106
+Others,-
+Oriental Mindoro,"47,012"
+Baco,59
+Bansud,35
+Bongabong,52
+Bulalacao,301
+Calapan City,"7,096"
+Gloria,59
+Mansalay,117
+Naujan,-
+Pinamalayan,169
+Pola,10
+Puerto Galera,"38,714"
+Roxas,76
+San Teodoro,125
+Socorro,-
+Victoria,199
+Palawan,"217,299"
+Aborlan,560
+Araceli,62
+Balabac,"1,533"
+Bataraza,-
+Busuanga,"1,770"
+Brookes Point,863
+Cagayancillo,-
+Coron,"44,618"
+Cuyo,181
+Culion,375
+El Nido,-
+Dumaran,"122,460"
+Espanola,4
+Linapacan,"7,491"
+Magsaysay,58
+Narra,290
+Quezon,299
+Rizal,"1,260"
+Roxas,590
+San Vicente,"27,556"
+Taytay,"7,329"
+Romblon,"1,158"
+Alcantara,96
+Calatrava,-
+Ferrol,-
+Looc,4
+Magdiwang,-
+Odiongan,162
+Romblon,639
+San Agustin,14
+San Andres,-
+San Fernando,33
+San Jose,210
+Santa Maria,-
+Puerto Princesa City,"481,830"
+Region V (BICOL REGION),"1,003,485"
+Albay ,395225
+Legazpi City,"383,605"
+Others,"11,620"
+Camarines Norte,"41,466"
+Daet,-
+Others,"41,466"
+Camarines Sur,"514,913"
+Iriga City,"14,600"
+Naga City,"198,361"
+Others,"301,952"
+Catanduanes,"7,759"
+Masbate Province,625
+Masbate City,"7,800"
+Sorsogon Province,"7,211"
+Sorsogon City,"28,486"
+Region VI (WESTERN VISAYAS),"783,731"
+Aklan,"572,588"
+Boracay,"565,351"
+Buruanga,546
+Kalibo,"6,462"
+Nabas,2
+New Washington,227
+Numancia,-
+Tangalan,-
+Antique,"6,668"
+Anini-y,233
+Belison,97
+Bugasong,-
+Caluya,-
+Culasi,"2,334"
+Hamtic,-
+Laua-an,-
+Libertad,-
+Pandan,"2,766"
+Patnogon,-
+San Remegio,-
+Sebaste,"1,234"
+San Jose,-
+Sibalom,-
+Tibiao,-
+Tobias Fornier,-
+Valderrama,4
+Capiz,"4,437"
+Cuartero,-
+Dao,50
+Dumalag,5
+Dumarao,30
+Ivisan,10
+Jamindan,9
+Maayon,-
+Mambusao,2
+Panay,-
+Panitan,35
+Pilar,166
+Pontevedra,27
+Pres. Roxas,10
+Roxas City,"4,001"
+Sapian,66
+Sigma,26
+Tapaz,-
+Guimaras,"7,494"
+Buenavista,15
+Jordan,128
+Nueva Valencia,"6,112"
+San Lorenzo,563
+Sibunag,676
+Others,-
+Iloilo Province,"6,558"
+Ajuy,126
+Alimodian,1
+Badiangan,208
+Balasan,5
+Banate,-
+Barotac Nuevo,2
+Barotac Viejo,-
+Batad,-
+Bingawan,-
+Cabatuan,148
+Calinog,-
+Carles,"1,618"
+Concepcion,140
+Dingle,-
+Duenas,5
+Dumangas,1
+Estancia,"1,653"
+Guimbal,60
+Igbaras,12
+Januiay,-
+Lambunao,-
+Leganes,456
+Lemery,35
+Leon,38
+Maasin,12
+Miagao,7
+New Lucena,16
+Oton,960
+Passi,77
+Pavia,36
+Pototan,44
+San Dionisio,6
+San Enrique,-
+San Joaquin,188
+San Miguel,-
+Sara,2
+Sta. Barbara,265
+Tigbauan,435
+Tubungan,2
+Zarraga,-
+Negros Occidental,"34,690"
+Bago,109
+Binalbagan,65
+Cadiz,"3,711"
+Calatrava,21
+Candoni,-
+Cauayan,-
+DS Benedicto,-
+Escalante,89
+Hinigaran,32
+Hinobaan,732
+Kabankalan,"1,326"
+La Carlota,23
+Las Castellana,-
+Mambukal,-
+Manapla,607
+Moises,-
+Murcia,"3,923"
+Pulupandan,-
+Sagay,204
+San Carlos,349
+San Enrique,-
+Silay,13
+Sipalay,"22,924"
+Talisay,562
+Victorias,-
+Bacolod City,"80,509"
+Iloilo City,"70,787"
+Region VII (CENTRAL VISAYAS),"3,602,646"
+Bohol,"641,527"
+Anda,"8,841"
+Antequera,-
+Baclayon,"2,384"
+Batuan,97
+Bien Unido,-
+Bilar,"2,494"
+Buenavista,8
+Calape,"1,173"
+Candijay,20
+Carmen,"2,389"
+Catigbian,-
+Danao,142
+Dauis,"36,186"
+Dimiao,-
+Garcia Hernandez,-
+Getafe,-
+Guindulman,"1,281"
+Inabanga,-
+Jagna,585
+Lila,105
+Loay,-
+Loon,"1,522"
+Loboc,"2,385"
+Maribojoc,217
+Panglao,"526,388"
+Sagbayan,-
+San Isidro,-
+Sikatuna,-
+Tagbilaran,"53,830"
+Talibon,707
+Tubigon,279
+Ubay,-
+Valencia,494
+Cebu,"456,313"
+Alcoy,"2,502"
+Alcantara,-
+Alegria,396
+Aloquinsan,8
+Argao,"1,048"
+Asturias,346
+Badian,26
+Balamban,487
+Bantayan,232
+Barili,450
+Bogo City,"1,224"
+Borbon,34
+Boljoon,"4,454"
+Carcar,"1,834"
+Carmen,-
+Catmon,-
+Cordova,"164,022"
+Daanbantayan,"86,369"
+Dalaguete,868
+Danao City,"3,753"
+Ginatilan,-
+Madridejos,-
+Medellin,"32,153"
+Minglanilla,-
+Moalboal,"30,355"
+Oslob,"37,830"
+Pilar,561
+Pinamungahan,650
+Poro,436
+Ronda,292
+Samboan,"1,071"
+San Fernando,"11,222"
+San Francisco,"13,970"
+San Remegio,"24,960"
+Santander,"3,701"
+Santa Fe,"27,947"
+Sibonga,-
+Sogod,260
+Tabogon,46
+Talisay,-
+Toledo City,"2,560"
+Tuburan,88
+Tudela,158
+Negros Oriental,"115,924"
+Amlan,334
+Bacong,"1,980"
+Bais,"3,412"
+Basay,"1,218"
+Bayawan,755
+Canlaon,235
+Dauin,"27,704"
+Dumaguete,"50,153"
+Guijulngan,143
+La Libertad,"3,509"
+Jimalaud,230
+Mabinay,"5,222"
+Manjuyod,285
+San Jose,339
+Siaton,"2,890"
+Sibulan,"3,395"
+Tanjay,65
+Valencia,"10,177"
+Zamboanguita,"3,878"
+Siquijor,"66,788"
+E. Villanueva,631
+Larena,"3,421"
+Lazi,"2,440"
+Maria,781
+San Juan,"44,932"
+Siquijor,"14,583"
+Cebu City,"896,107"
+Lapu-lapu City,"1,337,958"
+Mandaue City,"88,029"
+Region VIII (EASTERN VISAYAS) ,50674 
+Biliran,"1,159"
+Almeria,284
+Caibiran,-
+Cabucgayan,54
+Culaba,-
+Kawayan,-
+Maripipi,-
+Naval,821
+Eastern Samar,"1,016"
+Borongan City,638
+Can-Avid,7
+Gen. McArthur,-
+Guiuan,371
+Llorente,-
+Quinapondan,-
+Taft,-
+Leyte,"10,804"
+Abuyog,-
+Alburera,-
+Bago,-
+Bato,-
+Baybay City,809
+Hilongos,-
+Inopacan,-
+Isabel,126
+Kanangga,-
+Matalom,352
+McArthur,9
+Ormoc City,"5,747"
+Palo,-
+Palompon,"3,735"
+San Isidro,-
+Tolosa,26
+Northern Samar,643
+Allen,158
+Biri,121
+Bobon,4
+Capul,75
+Catarman,131
+Gamay,-
+Las Navas,-
+Mondragon,21
+Navar,-
+Palapag,-
+San Antonio,131
+San Roque,2
+Victoria,-
+Samar,"8,723"
+Calbayog City,"7,928"
+Catbalogan,795
+Basey,-
+Marabut,-
+Paranas,-
+Southern Leyte,"5,248"
+Hinunangan,137
+Hinundayan,45
+Liloan,65
+Limasawa,-
+Maasin City,"2,287"
+Macrohon,"2,253"
+Padre Burgos,-
+Pintuyan,-
+San Juan,25
+Saint Bernard,1
+Silago,-
+Sogod,433
+Tomas Oppus,2
+Others (Southern Leyte),-
+Tacloban City,"23,081"
+Region IX (ZAMBOANGA PENINSULA) ,16830 
+Zamboanga del Norte,"5,389"
+Dapitan City,867
+Dipolog City,"4,458"
+Others,64
+Zamboanga del Sur,704
+Pagadian City,704
+Others,"1,765"
+Zamboanga Sibugay,86
+Isabela City,-
+Zamboanga City,"8,886"
+Region X (NORTHERN MINDANAO) ,"63,444"
+Bukidnon,"1,988"
+Malaybalay City,"1,204"
+Valencia City,646
+Others,138
+Camiguin,"16,231"
+Lanao del Norte,615
+Misamis Occidental,"2,700"
+Ozamis City,"2,528"
+Tangub City,26
+Oroquieta City,122
+Others,24
+Misamis Oriental,"1,233"
+Gingoog City,308
+Others,925
+Cagayan de Oro City,"37,477"
+Iligan City,"3,200"
+Region XI (DAVAO REGION),"198,005"
+Compostela Valley,193
+Davao del Norte,"6,779"
+Asuncion,-
+Island Garden City of Samal,-
+Kapalong,-
+New Corella,-
+Panabo City,-
+Tagum City,-
+Others,"6,779"
+Davao del Sur,"4,004"
+Davao Occcidental,-
+Davao Oriental,"2,534"
+Davao City,"184,495"
+Region XII (SOCCSSARGEN),"18,810"
+North Cotabato,79
+Kidapawan City,79
+Others (Cotabato Province),-
+Sarangani,435
+South Cotabato,"4,989"
+Koronadal City,"4,330"
+Others,659
+Sultan Kudarat,77
+Tacurong City,77
+Others,-
+Cotabato City,"1,813"
+General Santos City,"11,417"
+Region XIII (CARAGA),"87,093"
+Agusan del Norte,366
+Cabadbaran City,251
+Others,115
+Agusan del Sur,592
+Bayugan,57
+Others,535
+Dinagat Islands,843
+Surigao del Norte,"72,133"
+Siargao Islands,"57,037"
+Surigao City,"14,600"
+Others,496
+Surigao del Sur,"1,310"
+Bislig City,107
+Tandag City,299
+Others,904
+Butuan City,"11,849"
+GRAND TOTAL,"8,211,535"
