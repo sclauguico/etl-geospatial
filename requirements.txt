@@ -6,3 +6,5 @@ geocoder
 os
 mysql.connector
 sqlalchemy
+folium
+geopy
