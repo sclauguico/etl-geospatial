@@ -3,7 +3,7 @@ An ETL development that extracts data from various sources, performs different t
 
 ### Project Demonstration
 
-Please see [demo video](https://www.canva.com/design/DAGIjl7oXDI/RtlT-PH2TlbfDI65_4Umtg/edit?utm_content=DAGIjl7oXDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for the following:
+Please see [demo video](https://www.canva.com/design/DAGIjl7oXDI/awHi_0OeqJgoYmfqiMwOUw/watch?utm_content=DAGIjl7oXDI&utm_campaign=designshare&utm_medium=link&utm_source=editor) for the following:
 1. ETL process
 2. MySQL loaded data
 3. Data visualization
